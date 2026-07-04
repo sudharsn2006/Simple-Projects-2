@@ -1,0 +1,1 @@
+This repository contains 5 completed projects that showcase my skills in Python, DevOps, Robotics, IoT, and Automation. Each project was built to strengthen my practical knowledge, improve problem-solving skills, and explore real-world applications.
